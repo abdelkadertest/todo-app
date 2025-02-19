@@ -27,11 +27,11 @@ class ForgetPassword extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 Center(
-
                   child: Image.asset("assets/images/forget_password_pic.png",
                       width: 361.w, height: 361.h),
                 ),
                 const SizedBox(
+
                   height: 24.0,
                 ),
 
