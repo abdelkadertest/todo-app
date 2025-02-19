@@ -32,6 +32,7 @@ class ForgetPassword extends StatelessWidget {
                 ),
                 const SizedBox(
 
+
                   height: 24.0,
                 ),
 
